@@ -9,5 +9,5 @@ ARENA, Art & Technology, CAU.
 </p>
 
 Content : 🐼 I Love Happy Panda 🐼 <br>
-Creator : [Bumsoo Kim](https://github.com/gh-BumsooKim) <br>
+Creator : [dltlsdn21](https://github.com/dltlsdn21) <br>
 Code : [Python Code](00-Happy-Panda/Happy-Panda.py) <br>
